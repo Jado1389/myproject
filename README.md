@@ -1,6 +1,8 @@
 # Azure Language OpenAI Conversational Agent Accelerator
 | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator) | [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator) |
 |---|---|
+--it is a new project
+I am Jean and i am adding something new on this code
 
 This accelerator template provides users with a code-first example for creating and enhancing chat solutions and agents with deterministic, human-controllable workflows. It is designed to minimize the need for extensive prompt engineering by using a structured workflow to prioritize top questions with exact answers, top intents with deterministic routing, and use LLM to handle long tail topics. These actions help to ensure determinism and consistency. The template also provides flexibility to swap, add, or remove agents/components to tailor to your specific needs.
 
